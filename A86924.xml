@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Worlds wonder, or, joyful newes from Scotland and Ireland. Comprized in the ensuing predictions, and monethly observations, for this present year, 1651. Foreshewing the great things that will come to passe in England, Ireland and Scotland, the several fights that will happen between the Lord Gen. Cromwel and the Scots, and the Lord Gen, Deputy Ireton, and the Irish; the event and success thereof, and what will befall the King of Scots, and Major Gen. Massey. A great victory to be obtained by the English, in the moneth of July, upon the eclipsing of the sun, as it was in Jermany, when the renouned King of Sweden, charging in the van against the emperour, with his sword in one hand, and his pistol in the other, in his buf-coat, was slain upon the place; with a description of the said fight, and the Kings speech to his souldiery, ... A great fight in Ireland, and the total routing of the enemy in Scotland, ... A great fight at sea by the Parliaments navy. ... joyful tydings for the London merchants, and exceeding good news for the countrey farmers, and citizens. Together, with a new prophesie of the Presbyterians, ... Extracted out of the original, licensed according to order.</title>
+            <author>G. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86924</idno>
+            <idno type="STC">Wing H38</idno>
+            <idno type="STC">Thomason E624_8</idno>
+            <idno type="STC">ESTC R206457</idno>
+            <idno type="EEBO-CITATION">99865614</idno>
+            <idno type="PROQUEST">99865614</idno>
+            <idno type="VID">117860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117860)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E624[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Worlds wonder, or, joyful newes from Scotland and Ireland. Comprized in the ensuing predictions, and monethly observations, for this present year, 1651. Foreshewing the great things that will come to passe in England, Ireland and Scotland, the several fights that will happen between the Lord Gen. Cromwel and the Scots, and the Lord Gen, Deputy Ireton, and the Irish; the event and success thereof, and what will befall the King of Scots, and Major Gen. Massey. A great victory to be obtained by the English, in the moneth of July, upon the eclipsing of the sun, as it was in Jermany, when the renouned King of Sweden, charging in the van against the emperour, with his sword in one hand, and his pistol in the other, in his buf-coat, was slain upon the place; with a description of the said fight, and the Kings speech to his souldiery, ... A great fight in Ireland, and the total routing of the enemy in Scotland, ... A great fight at sea by the Parliaments navy. ... joyful tydings for the London merchants, and exceeding good news for the countrey farmers, and citizens. Together, with a new prophesie of the Presbyterians, ... Extracted out of the original, licensed according to order.</title>
+                  <author>G. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.H.</note>
+                  <note>A monthly almanac of astrological propaganda, predicting a bright year for the Parliament in 1651.</note>
+                  <note>Annotation on Thomason copy: "feb. 20 1650."; also the last two numbers of the imprinted date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117860:1" rendition="simple:additions"/>
+            <p> The Worlds Wonder, OR, Joyful Newes from <hi>Scotland</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>COMPRIZED In the enſuing <hi>Predictions,</hi> and Monethly <hi>Obſervations,</hi> for this prſent year, 1651. Foreſhewing the great things that will come to paſſe in <hi>England, Ireland</hi> and <hi>Scotland,</hi> the ſeveral fights that will happen between the Lord Gen. <hi>Cromwel</hi> and the <hi>Scots,</hi> and the Lord Gen. Deputy <hi>Ireton,</hi> and the <hi>Iriſh;</hi> the event and ſucceſs thereof, and what will befall the King of <hi>Scots,</hi> and Major Gen. <hi>Maſſey.</hi> A great Victory to be obtained by the <hi>Engliſh,</hi> in the Moneth of <hi>July,</hi> upon the eclipſing of the Sun, as it was in <hi>Jermany,</hi> when the renouned King of <hi>Sweden,</hi> charging in the Van againſt the Emperour, with his Sword in one hand, and his Piſtol in the other, in his Buf-Coat, was ſlain upon the place: with a deſcription of the ſaid fight, and the Kings <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peech to his Souldiery, at the head of each Regi<g ref="char:EOLhyphen"/>ment, upon their engaging againſt the Enemy. A great fight in <hi>Ireland,</hi> and the total routing of the Enemy in <hi>Scotland,</hi> 15 Marqueſſes, Earls, and Lords taken priſoners, all their Ordnance, Arms, Ammunition, Bag, and Baggage. A great fight at Sea by the Parliaments Navy. Divers Ships taken, ſunk, and burned: joyful tydings for the <hi>London</hi> Merchants, and exceeding good news for the Countrey Farmers, and Citizens. Together, with a new Propheſie of the Presbyterians, and what will befall them this Summer; to the great admi<g ref="char:EOLhyphen"/>ration of All that ſhall read this enſuing Subject.</p>
+            <p>Extracted out of the Original, Licenſed according to Order,</p>
+            <figure>
+               <figDesc>woodcut of the moon, crescent at bottom, man's face in the shadow</figDesc>
+               <head>North</head>
+            </figure>
+            <p>LONDON, <hi>Printed by John Clowes,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117860:2"/>
+            <pb n="1" facs="tcp:117860:2"/>
+            <head>The Worlds Wonder,</head>
+            <p>I Hope I may crave pardon, and as eaſily obtain it, for beginning my Prognoſticks, conſidering that they compriſe, (and are amplified, with) very remarkable Obſervations, and rational Pre<g ref="char:EOLhyphen"/>dictions; wherein you may apparently diſcern &amp; foreſee, the great things that will happen in <hi>England, Ireland, Scotland, France, Denmark, Sweden,</hi> and other parts of <hi>Europe;</hi> as alſo the event and ſucceſs of the <hi>Engliſh</hi> Armies, in their ſeveral deſigns and motions, either by Sea or Land, againſt <hi>Scot, Iriſh, French, Deane,</hi> and <hi>Portingal;</hi> and to the end, that theſe <hi>Prognoſticks</hi> may appear the more eaſie and facile, (to each re<g ref="char:EOLhyphen"/>ſpective capacity and underſtanding) I have in refe<g ref="char:EOLhyphen"/>rence thereunto, drawn up and compoſed theſe enſu<g ref="char:EOLhyphen"/>ing annexals, in order to their due ſtinction &amp; courſe of each moneths Progreſs and actions; but by reaſon <hi>January</hi> hath produced little of concernment, I ſhall therefore more fully and particularly, inſiſt upon the reſt of the enſuing moneths, for this preſent year,
+<pb n="2" facs="tcp:117860:3"/> 1651; and firſt, give me leave to preſent you, <hi>Febru<g ref="char:EOLhyphen"/>ary viz.</hi>
+            </p>
+            <div type="prognostications">
+               <head>
+                  <hi>February,</hi> 1651.</head>
+               <p>HOw pleaſently doth this moneth begin with my brother Commoner? The Nation ſmiles, every one is merry with his Miſtriſſe, and think the worſt is paſt; I <hi>wiſh it were ſo;</hi> Great plots are contriving between our ſouldery, and the <hi>Scots,</hi> when we poor Commoners know it not; neither is it fit we ſhould; it is not our places; and if every one had kept the place God ſet him in, this Nation had not been in the pickle tis now in; let the Clergy-man minde his Bible, and the Plow-man his Plow: We know not, neither was any man able to tell us, what ſin it was the Devil firſt committed, onely, <hi>Jude</hi> 6. <hi>God ſpared not the Angels that left their firſt ſtation:</hi> Let not us leave ours to turn Stateſ-men, <hi>&amp;c. Mars</hi> ſets Retrogade; Treaties break off; tis the ſword muſt end the difference when all's done: Our neighbor Kingdoms are afraid of us they have cauſe enough; therefore, good <hi>Presbyter,</hi> let me adviſe thee to be wiſe, why ſhouldeſt thou bring thy ſelf into a <hi>premunery,</hi> and fall before thy time? Be wiſe, or elſe thy Motto ſhall be <hi>miſerum eſt fuiſſe.</hi>
+               </p>
+            </div>
+            <div type="prognostications">
+               <head>March.</head>
+               <p>This moneth threatens great diſſention in <hi>Scotland;</hi> between the Nations; the Nobility divide; the Cler<g ref="char:EOLhyphen"/>gy break in pieces, and the Commonalty falls by hun<g ref="char:EOLhyphen"/>dreds; and great is the breach through the <hi>Scotiſh</hi> Ter<g ref="char:EOLhyphen"/>ritories. <hi>Do, fall out, and fight to, it ſhall never trouble mee.</hi>
+               </p>
+               <p>But give me leave to give a timely admonition to their young King; Oh that he would be ſo wiſe to hear, I queſtion not, but ſome will bear the honeſty to tell him, or the malice againſt mee, to tell him of it.
+<pb n="3" facs="tcp:117860:3"/> It is onely, <hi>Ier.</hi> 45. 4. 5. ſomwhat applyed to his Per<g ref="char:EOLhyphen"/>ſon; The great Jehovah of Heaven and earth, the Re<g ref="char:EOLhyphen"/>deemer of the world, the Savior of Saints, hath ſaid thus, <hi>That which I have built will I deſtroy, and that which I have planted will I pluck up, even thy whole fa<g ref="char:EOLhyphen"/>mily; and ſeeketh tbou great things to thy ſelf, ſeek them not.</hi> If I ſpeak to wiſe men, this is enough; yet I can<g ref="char:EOLhyphen"/>not but conclude ſome, nay much good to the Com<g ref="char:EOLhyphen"/>monwealth this year, <hi>viz.</hi> Proſperity and happineſſe; ſurely juſtice will this year come down from heaven to viſit the earth; peace, Plenty, and proſperity ſeems to attend the Engliſh Nation.</p>
+            </div>
+            <div type="prognostications">
+               <head>April.</head>
+               <p>The ſeaſon of this moneth being ſutable, produceth great action in the field; and I expect more wonders this moneth to be either agitated or tranſacted, then either the eyes of our fathers, grandfathers, or great grandfathers, ever ſaw or dreamt of; Now expect another rout in <hi>Scotland,</hi> and that near the County of <hi>Fife,</hi> where a gallant army of horſe &amp; foot lye bleed<g ref="char:EOLhyphen"/>ing, great guns and little guns, together with all their baggage, oatmeal, and ſalt loſt, and taken, their yong King attempts a fight beyond the Seas; the States of <hi>Holland</hi> begin to ſmell a Rat, but are not wiſe enough to make a ſnare, &amp;c. Bitter weather abroad, and ſtor<g ref="char:EOLhyphen"/>my at Sea, Pyrats grow numerous, and the <hi>London</hi> Marchant loſeth much, who can help it? But the States prudence and providence, who employing Gen. <hi>Blake</hi> and ſending an additional fleet unto him, enſnares theſe Rovers; who after a ſhort fight, ſink, burns, and takes them all; and with his Navie, adorned with theſe Trophies, <hi>the white flag and the red croſſe,</hi> the <hi>blue flag, and tbe golden harpe,</hi> failes to and fro upon the Brittiſh <hi>Iriſh, French,</hi> and <hi>Daniſh</hi> ſeas, clearing the ſeveral Channels of all <hi>Englands</hi> Enemies.</p>
+            </div>
+            <div type="prognostications">
+               <pb n="4" facs="tcp:117860:4"/>
+               <head>May.</head>
+               <p>ME thinks this moneth begins merrily as it ſhould do, and it being <hi>Cookoo-time,</hi> Citizens Servants will be ready to ſalute their Miſtreſſes, <hi>&amp;c.</hi> Well! be it ſo, they will find a very untoward time of it; for it is a ſcurvy Trade to be a Pyrate. This year will be a far more plentiful then healthful, mens bodies will be vexed exceedingly with Coughs and Catarchs, and other Diſeaſes proceeding of cold and moiſture will be enidemical, and of no long continuance, which ſig<g ref="char:EOLhyphen"/>nifies death of women; and in all probability, there may die three women for one man: much about this time, the little Queen in <hi>France</hi> drawes to a period of her dayes. The latter end of this <hi>March</hi> produceth a great Sea-fight, look to it <hi>France,</hi> for thou wilt-ſuffer: Beware <hi>Portugal,</hi> there's not a Nation under the Moon ſhall offend us, and eſcape unpuniſhed.</p>
+            </div>
+            <div type="prognostications">
+               <head>June.</head>
+               <p>THis Moneth begins with fair weather, and bring<g ref="char:EOLhyphen"/>eth ſmiles to the Country Farmer for his Harveſt: But ſurely the Devil or <hi>Robin-goodfellow</hi> is in the <hi>Scots; Scotland! Scotland!</hi> Doſt not thou ſee how thy Cler<g ref="char:EOLhyphen"/>gy cheats thee: if ever mortal men were mad to be undone, you are of that number: The actions of the latter end of this moneth, and the beginning of the next, amaze all <hi>Europe,</hi> I had almoſt ſaid the World; for an unparalleld Victory is obtained in <hi>Ireland,</hi> an<g ref="char:EOLhyphen"/>other near the Mountains in <hi>Scotland,</hi> and about 15. Marqueſſes, Earls, and Lords taken, and ſafly com<g ref="char:EOLhyphen"/>mitted: If any happen to be headleſs about this time, they will fall the lighter.</p>
+            </div>
+            <div type="prognostications">
+               <head>July.</head>
+               <p>IF any aske how this moneth will begin, the anſwer is ready, to wit, juſt as the laſt ended, finding out
+<pb n="5" facs="tcp:117860:4"/> knaves, ſuch as ſet the Nation together by the eares, ſuch as ſowed the ſeed of ſedition in ſtead of the truth, ſuch as Widdows and Fatherleſs Children daily pray againſt, ſuch as one day ſhall dearly anſwer, for the bloud that hath been ſpilt in this civil VVar, ſuch as have endeavoured to make themſelves by maring o<g ref="char:EOLhyphen"/>thers; but now juſtice ſeizeth on them, and payes them their wages. About the 14. or 20. day produ<g ref="char:EOLhyphen"/>ceth tydings of another great Battel Northward, which will again crown both our friends and Armies with laurel; and it will alſo continue and end in executi<g ref="char:EOLhyphen"/>on of juſtice upon Malefactors. Let the Army ſcore their valor upon the heads of their enemies in the name of God, but let peace and quietneſs be amongſt them<g ref="char:EOLhyphen"/>ſelves; for though diſcord make a harmony in mu<g ref="char:EOLhyphen"/>ſick, yet it doth not ſo in an Army. About this time we gather from the conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> that the <hi>Sun</hi> will be eclipſed, during a great part of the fight; but upon the <hi>Scots</hi> flight, it appears in its glori<g ref="char:EOLhyphen"/>ous ſplendor again, which proves as fatal to the <hi>Scots,</hi> as the great blow given to the Emperor of <hi>Jermany,</hi> by the late great blowe given to the Emperour of <hi>Jer<g ref="char:EOLhyphen"/>many,</hi> by the late renowned King of <hi>Sweden,</hi> who upon a pitcht field with 15000. men, totally ſubdued that potent Army of <hi>Jermans,</hi> conſiſting of 45000 l. and with his ſword in one hand and his Piſtol in the other, a little before the fight began, rode to each Regiment, uttering theſe words, <hi>Gentlemen and fellow Souldiers, I hope you are all willing to venter your lives with me this day, for the advancement of the Kingdom of Jeſus Chriſt, and for the eſtabliſhing of his truth, &amp;c.</hi> but the Soul<g ref="char:EOLhyphen"/>diery being overjoyed at his affable expreſſions, ſoun<g ref="char:EOLhyphen"/>ded forth great acclamations, <hi>that they would live and die with him.</hi> Then replyed the King, in the name of God, let us fall on, I your Soveraign, and Cap. Gen.
+<pb n="6" facs="tcp:117860:5"/> wil be the firſt man that ſhall charge in the van, which accordingly he did in his Buff-coat, without Armour, where after 6 hours fight, this gallant Prince was ſlain: At which time the Sun was darkened for the ſpace of half an hour.</p>
+            </div>
+            <div type="prognostications">
+               <head>Auguſt.</head>
+               <p>ON the very beginning of this moneth, the Sun cuts the aſſendent of the year, and the mid-heaven of the conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> and ſure the honeſt Commoner begins to love the Parliament, ap<g ref="char:EOLhyphen"/>parently diſcerning now who hath done them good, and preſerved them and theirs from Egiptian bondage.</p>
+            </div>
+            <div type="prognostications">
+               <head>Septemb, &amp; Octob.</head>
+               <p>THeſe two Moneths produce little action, either by Sea or Land, looking with a pretty quiet face, and ſeems to promiſe ſome fair accord amongſt our ſelves, which the Lord grant us, and then let men; De<g ref="char:EOLhyphen"/>vil, and Pope be our oppoſers.</p>
+            </div>
+            <div type="prognostications">
+               <head>November.</head>
+               <p>THis moneth begins ſeverely, tis pitty tis not like<g ref="char:EOLhyphen"/>ly to hold, I hope my brother Commoner will like the Law a little better then he was wont to do; if not, let but Neighbours live quietly, and there will be the leſſe need of it. This moneth cannot nor will not leave us till it hath ſet <hi>Saturn</hi> and <hi>Mars</hi> together by the eares.</p>
+            </div>
+            <div type="prognostications">
+               <head>December.</head>
+               <p>THe Sun begins to ſhine on the beginning of this moneth, affording us ſeaſonable weather, tempe<g ref="char:EOLhyphen"/>rate actions, but ſuddenly the wind riſeth high, and mens brains are entoxicated, they ſit by the fire, and ponder in the winter what they will do next Spring; but in the mean time women cannot agree with their Husbands, who can help it? if the ſheetes cannot make them friends, I cannot,</p>
+            </div>
+            <closer>
+               <salute>So farewel<g ref="char:punc">▪</g>
+               </salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117860:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
